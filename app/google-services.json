@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "5619718036",
+    "project_id": "picturesharebasic",
+    "storage_bucket": "picturesharebasic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5619718036:android:f89a0ec4e8c93bd1a96181",
+        "android_client_info": {
+          "package_name": "com.ulas.picturesharebasic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7twUzu5g05L2yLiMdgrqWLhp6nkFUW9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
